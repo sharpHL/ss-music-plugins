@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    {
+      "name": "网易云音乐",
+      "url": "https://raw.githubusercontent.com/sharpHL/ss-music-plugins/main/plugins/netease.js"
+    },
+    {
+      "name": "小宇宙 FM",
+      "url": "https://raw.githubusercontent.com/sharpHL/ss-music-plugins/main/plugins/xiaoyuzhou.js"
+    }
+  ]
+}
